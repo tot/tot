@@ -4,7 +4,6 @@ I'm a sneakerhead 👟 who loves all-things technology 💻! I have 4+ years of 
 
 ## 📝 Contact
 - Email: hello@vatic.design
-- LinkedIn: https://www.linkedin.com/in/tony-tran-3739301b5/
 - Discord: cud#1585
 
 ## 💡 Current Projects
