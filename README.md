@@ -1,10 +1,21 @@
 ## Hi, I'm Tony <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I'm a sneakerhead 👟 who loves all-things technology 💻! I dabble in programming, finance, and business. Currently, I'm working at [Eversify](https://eversify.com) as a frontend developer to deliver user interfaces packed with powerful tools to retail investors. In my free time, I freelance as a web developer and designer for small businesses and I resell sneakers.
+I'm a sneakerhead 👟 who loves all-things technology 💻! I have 4+ years of experience as a web developer and web designer, mostly from freelancing. Currently, I'm working at [Eversify](https://eversify.com) as a frontend developer to deliver user interfaces packed with powerful tools to retail investors. In my free time, I freelance as a web developer and designer for small businesses and I resell sneakers.
 
-## My Tools
+## 📝 Contact
+- Email: hello@vatic.design
+- LinkedIn: https://www.linkedin.com/in/tony-tran-3739301b5/
+- Discord: cud#1585
 
-### Languages
+## 💡 Current Projects
+- [Eversify](https://eversify.com) - Providing resources to bridge the gap between professional investors and retail investors
+- [Cavbotics](https://github.com/kadennguyen0329/CAVBOTICS2022) - The codebase for FRC team #8590
+- Cavbotics Dashboard - A dashboard to manage your FRC robot
+- Learn Python
+
+## 🛠️ My Tools
+
+### 👨‍💻 Languages
 <p>
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -14,7 +25,7 @@ I'm a sneakerhead 👟 who loves all-things technology 💻! I dabble in program
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
   
-### Frameworks and libraries
+### 🧰 Frameworks and libraries
 <p>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img alt="Electron" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
@@ -30,22 +41,11 @@ I'm a sneakerhead 👟 who loves all-things technology 💻! I dabble in program
   
 </p>
 
-### Databases and hosting
+### 🗄️ Databases and hosting
 <p>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</p>
-
-### Software
-<p>
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-  <img alt="Adobe Xd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
 
 
