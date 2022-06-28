@@ -3,7 +3,7 @@
 I'm a sneakerhead 👟 who loves all-things technology 💻! I have 4+ years of experience as a web developer and web designer, mostly from freelancing. Currently, I'm working at [Eversify](https://eversify.com) as a frontend developer to deliver user interfaces packed with powerful tools to retail investors. In my free time, I freelance as a web developer and designer for small businesses and I resell sneakers.
 
 ## 📝 Contact
-- Email: tonyt@vatic.design
+- Email: tony@vatic.design
 - Discord: cud#1585
 
 ## 💡 Current Projects
