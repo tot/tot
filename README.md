@@ -7,5 +7,4 @@ I'm a sneakerhead 👟 who loves all-things technology 💻! I have 4+ years of 
 - Discord: cud#1585
 
 ## 💡 Current Projects
-- [Eversify](https://eversify.com) - Providing resources to bridge the gap between professional investors and retail investors
-- Learn Python
+- MusicMates - A social platform to explore music personalities and showcase your own
