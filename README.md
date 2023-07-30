@@ -4,7 +4,6 @@ I'm a sneakerhead 👟 who loves all-things technology 💻! I have 4+ years of 
 
 ## 📝 Contact
 - Email: tony@vatic.design
-- Discord: cud#1585
 
 ## 💡 Current Projects
 - MusicMates - A social platform to explore music personalities and showcase your own
