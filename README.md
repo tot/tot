@@ -4,6 +4,3 @@ I'm a sneakerhead 👟 who loves all-things technology 💻! I have 4+ years of 
 
 ## 📝 Contact
 - Email: tonyttran2003@gmail.com
-
-## 💡 Current Projects
-- Harmonyze - A social platform to explore music personalities and showcase your own
